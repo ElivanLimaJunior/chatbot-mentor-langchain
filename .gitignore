@@ -1,0 +1,6 @@
+.env
+.venv/
+__pycache__/
+
+# Material de estudo pessoal (não vai para o GitHub)
+estudos/
